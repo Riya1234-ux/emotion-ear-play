@@ -1,57 +1,67 @@
-This project is a UI-focused web application built as part of my exploration into rapid product design and development using AI-assisted tools. The emphasis was on clean layouts, usability, and turning an idea into a working product quickly.
+Project Overview
 
-Project overview
+This project is an AI- and machine-learning–driven emotion-based music recommendation system built as part of my exploration into rapid AI product development using AI-assisted tools. The system focuses on detecting or interpreting user emotion and mapping it to suitable music selections in real time.
 
-The goal of this project was to design and build a functional interface that feels intuitive and purposeful. Rather than starting with heavy setup, I focused on user flow, visual hierarchy, and interaction design, refining the product through continuous iteration.
+The goal was to quickly transform an AI concept into a functional product while keeping the system flexible, scalable, and open to future model improvements.
 
-This allowed me to move fast while still paying attention to UX details.
+Goals
 
-What I worked on
+Build an emotion-aware music system using AI/ML
 
-UI layout and visual structure
+Explore emotion recognition and affect-based recommendation logic
 
-User flow and interaction decisions
+Rapidly prototype a working AI-driven product
 
-Iterative design improvements based on usability
+Create a scalable foundation for future model and data enhancements
 
-Translating ideas into working features
+What we Worked On
 
-Refining the experience through small, focused changes
+Defining emotion categories and their mapping to music attributes
 
-Key features
+Designing AI-driven logic for emotion-based music selection
 
-Clean, responsive interface
+Implementing system behavior around emotional input
 
-Clear user flow and navigation
+Iterating on recommendation logic for better relevance
 
-Scalable structure for future features
+Structuring the application for future ML model integration
 
-Designed with usability and clarity in mind
+Key Features
 
-Tools & tech
+Emotion-based music recommendation
 
-Lovable.dev – AI-assisted product building
+AI-driven decision logic at the core of the system
 
-Frontend: (add React / Tailwind / etc. if applicable)
+Adaptive structure for future machine learning models
 
-Design approach: UX-first, iterative, user-centred
+Designed for experimentation and expansion
+
+Tools & Tech
+
+Lovable.dev – AI-assisted product development
+
+Frontend: React / Tailwind CSS (adjust if needed)
+
+AI / ML: Emotion recognition and recommendation logic
+
+Development Approach: AI-first, rapid iteration, experimentation
 
 Process
 
-Started with a basic idea and rough structure
+Started with the idea of emotion-aware music selection
 
-Built a working version quickly
+Built a functional version quickly using AI-assisted tools
 
-Iterated on layout, spacing, and interactions
+Iterated on emotion-to-music mapping logic
 
-Refined based on usability and clarity
+Refined system behavior through focused improvements
 
-This approach helped balance speed with thoughtful design.
+This approach allowed fast validation of the core AI concept while keeping the system extensible.
 
 Outcome
 
-The result is a functional, presentable product that demonstrates my approach to UI/UX design, rapid prototyping, and iteration. The project can be expanded further, but already serves as a solid proof of concept.
+The result is a functional emotion-based music system that demonstrates my approach to AI/ML product development, rapid prototyping, and iterative refinement. While the system can be expanded with more advanced emotion detection models and personalized learning, it already serves as a strong proof of concept.
 
 Notes
 
-This project is part of my ongoing portfolio and reflects my interest in building usable, well-designed interfaces with modern tools.
+This project is part of my ongoing portfolio and reflects my interest in affective computing, emotion-aware AI systems, and AI-driven recommendation technologies.
