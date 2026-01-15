@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+This project is a UI-focused web application built as part of my exploration into rapid product design and development using AI-assisted tools. The emphasis was on clean layouts, usability, and turning an idea into a working product quickly.
 
-## Project info
+Project overview
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+The goal of this project was to design and build a functional interface that feels intuitive and purposeful. Rather than starting with heavy setup, I focused on user flow, visual hierarchy, and interaction design, refining the product through continuous iteration.
 
-## How can I edit this code?
+This allowed me to move fast while still paying attention to UX details.
 
-There are several ways of editing your application.
+What I worked on
 
-**Use Lovable**
+UI layout and visual structure
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+User flow and interaction decisions
 
-Changes made via Lovable will be committed automatically to this repo.
+Iterative design improvements based on usability
 
-**Use your preferred IDE**
+Translating ideas into working features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Refining the experience through small, focused changes
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Key features
 
-Follow these steps:
+Clean, responsive interface
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Clear user flow and navigation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Scalable structure for future features
 
-# Step 3: Install the necessary dependencies.
-npm i
+Designed with usability and clarity in mind
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Tools & tech
 
-**Edit a file directly in GitHub**
+Lovable.dev – AI-assisted product building
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Frontend: (add React / Tailwind / etc. if applicable)
 
-**Use GitHub Codespaces**
+Design approach: UX-first, iterative, user-centred
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Process
 
-## What technologies are used for this project?
+Started with a basic idea and rough structure
 
-This project is built with:
+Built a working version quickly
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Iterated on layout, spacing, and interactions
 
-## How can I deploy this project?
+Refined based on usability and clarity
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+This approach helped balance speed with thoughtful design.
 
-## Can I connect a custom domain to my Lovable project?
+Outcome
 
-Yes, you can!
+The result is a functional, presentable product that demonstrates my approach to UI/UX design, rapid prototyping, and iteration. The project can be expanded further, but already serves as a solid proof of concept.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Notes
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+This project is part of my ongoing portfolio and reflects my interest in building usable, well-designed interfaces with modern tools.
