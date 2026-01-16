@@ -1,3 +1,8 @@
+Team Members:Anushka baliya
+            :Riya Paul
+
+
+
 Project Overview
 
 This project is an AI- and machine-learning–driven emotion-based music recommendation system built as part of my exploration into rapid AI product development using AI-assisted tools. The system focuses on detecting or interpreting user emotion and mapping it to suitable music selections in real time.
